@@ -9,9 +9,7 @@
     - wget
     - httpd
     - httpd-tools
-    - splunk
     - curl
-    - nfs
 
 # Configure apache
 - name: Ensure httpd is running
